@@ -2,7 +2,7 @@ import React from 'react'
 
 const Register = () => {
   return (
-    <div>Register hello </div>
+    <div> hello today i try to use github </div>
   )
 }
 
